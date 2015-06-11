@@ -1,0 +1,15 @@
+# view res/layout/main.xml #generated:14
+-keep class android.support.v4.app.FragmentTabHost { <init>(...); }
+
+# view AndroidManifest.xml #generated:19
+-keep class com.lidroid.xutils.sample.DownloadListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:18
+-keep class com.lidroid.xutils.sample.ImageActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:10
+-keep class com.lidroid.xutils.sample.MyActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:20
+-keep class com.lidroid.xutils.sample.download.DownloadService { <init>(...); }
+
